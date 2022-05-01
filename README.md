@@ -1,6 +1,6 @@
 # Ethscrow App
 
-- Url for deployed app: www.ethscrow.xyz 
+- Url for deployed app: www.ethscrow.xyz (Note: only works on ropsten testnet)
 - Contract address: 0xDB32fAd3d0e68B3Da9032729834fb089e17f4632
 - Deployed on Ropsten Testnet (https://ropsten.etherscan.io/address/0xDB32fAd3d0e68B3Da9032729834fb089e17f4632)
 
