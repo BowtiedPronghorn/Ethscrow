@@ -1,0 +1,32 @@
+.Container{
+    height: 35vh;
+    width: 50vh;
+    position: relative;
+    top: 25vh;
+    right: -25vh;
+    background-color: #a5a58d;
+    border-radius: 10px;
+}
+
+.MakeTransaction{
+    height: 10vh;
+    width: 25vh;
+    position: relative;
+    top: 2vh;
+    right: -25%;
+    background-color: #b7b7a4;
+    border-radius: 10px;
+    box-shadow:0px 1px 2px 2px #000;
+}
+
+.TextInput{
+    margin: 10px;
+    height: 3vh;
+    width: 75%;
+    position: relative;
+    left: 10%;
+    top: 4vh;
+    background-color: #b7b7a4;
+    border-radius: 5px;
+    box-shadow:0px 1px 2px 2px #000;
+}

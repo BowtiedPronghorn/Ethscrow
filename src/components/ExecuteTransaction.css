@@ -1,0 +1,26 @@
+.ExecuteTxnContainer{
+    height: 35vh;
+    width: 50vh;
+    position: relative;
+    top: -10vh;
+    right: -100vh;
+    background-color: #a5a58d;
+    border-radius: 10px;
+}
+
+.ExecuteTransaction{
+    height: 10vh;
+    width: 25vh;
+    position: relative;
+    top: 2vh;
+    right: -25%;
+    background-color: #b7b7a4;
+    border-radius: 10px;
+    box-shadow:0px 1px 2px 2px #000;
+}
+
+.RadioValue{
+    position: relative;
+    top: 3.5vh;
+    right: 11vh;
+}
